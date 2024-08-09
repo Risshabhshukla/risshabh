@@ -1,3 +1,3 @@
 # risshabh
 This is my first code.
-Author - Rishabh shukla
+Author - Rishabh shukla (hello)
